@@ -1,1 +1,3 @@
-Sybren Ekkel - 2024/2025
+Free, open-source software to capture screen clips from 1 second to 10 minutes in the past, no sign-up required.
+
+work in progress
